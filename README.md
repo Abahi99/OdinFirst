@@ -1,0 +1,1 @@
+This Landing Page is one Of the exercises that I did in the Odin Projects where they ask me to follow a template in a form of image to follow.
